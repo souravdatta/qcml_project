@@ -1,0 +1,5 @@
+qiskit==0.28.0
+qiskit-aqua
+qiskit-utils
+jupyter
+pyscf
