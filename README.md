@@ -6,3 +6,5 @@
 4. Change directory `cd old_qiskit`
 5. Run `pip install -r requirements.txt`
 6. Run `jupyter notebook` to start the Jupyter server
+7. Or directly run the Python programs `python <program_name>.py`
+   
