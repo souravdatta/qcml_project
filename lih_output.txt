@@ -1,0 +1,16 @@
+Hartree-Fock energy: -7.861992688740793
+Nuclear repulsion energy: 0.9946940054887219
+Number of molecular orbitals: 6
+Number of alpha electrons: 2
+Number of beta electrons: 2
+Electronic Hamiltonian: Representation: paulis, qubits: 8, size: 276
+Ground state energy: -7.882159386289997
+=== GROUND STATE ENERGY ===
+
+* Electronic ground state energy (Hartree): -8.876853391779
+  - computed part:      -1.078977575521
+  - frozen energy part: -7.797875816258
+  - particle hole part: 0.0
+~ Nuclear repulsion energy (Hartree): 0.994694005489
+> Total ground state energy (Hartree): -7.88215938629
+Actual VQE evaluations taken: 176
